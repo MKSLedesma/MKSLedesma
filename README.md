@@ -1,6 +1,6 @@
 - 👋 Hola, soy @crisledmess
 - 👀 Estoy interesado en informatica
-- 🌱 Actualmente estoy aprendiendo C
+- 🌱 Actualmente estoy aprendiendo Python, C y C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
