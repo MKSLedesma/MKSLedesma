@@ -3,7 +3,7 @@
 ```
 I-am-MKSLedesma@github
 -------------------------
-💻 I am a Software Ingineering Student
+💻 I am a Software Engineering Student
 📝 I have a strong interest in Artificial Intelligence, Game Development and Software Development
 🔭 Working on private repositories
 🌱 Learning about Operative Systems, Theory of Algorithms
