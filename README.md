@@ -8,17 +8,16 @@ I-am-MKSLedesma@github
 🔭 Working on private repositories
 🌱 Learning about Operative Systems, Theory of Algorithms
 🌟 Main languages: Python, Java, C++
-🎮 Videogames
+🎮 Love Videogames
 ```
 <hr>
-
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue"></a>
 
 ### 💻 Software and Tools
 
